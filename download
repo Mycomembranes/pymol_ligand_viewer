@@ -1,21 +1,27 @@
-MIT License
+# Figures
 
-Copyright (c) 2026 Mukshud Ahamed
+To generate all pocket figures, open PyMOL and run:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+```
+run lola_pockets.py
+run_all
+```
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This produces 8 ray-traced PNGs (2400×1800 @ 300 DPI):
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- `LprG_TAG_4ZRA_pocket.png`
+- `LprG_PIM2_3MHA_pocket.png`
+- `VioE_PPA_2ZF4_pocket.png`
+- `VioE_PEG_3BMZ_pocket.png`
+- `EPD_BCP1_8I34_pocket.png`
+- `LppX_2BYO_pocket.png`
+- `LolA_2ZPC_pocket.png`
+- `RseB_2V42_pocket.png`
+
+Move them into this directory, then rename three for the README gallery:
+
+```bash
+cp LprG_TAG_4ZRA_pocket.png figures/lprg_tag_example.png
+cp VioE_PEG_3BMZ_pocket.png figures/vioe_peg_example.png
+cp EPD_BCP1_8I34_pocket.png figures/epd_bcp1_example.png
+```
