@@ -1,9 +1,9 @@
-# LolA Superfamily — Binding Pocket Visualization
+#  Binding Pocket Visualization
 
 [![Python](https://img.shields.io/badge/PyMOL-2.5+-blue.svg)](https://pymol.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-PyMOL scripts for visualizing ligand-binding pockets across the **LolA superfamily** of bacterial lipid-binding lipoproteins, with experimental mutagenesis validation overlays.
+PyMOL scripts for visualizing ligand-binding pockets with experimental mutagenesis validation overlays.
 
 <p align="center">
   <!-- 💡 After running: replace with actual screenshots
