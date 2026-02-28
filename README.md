@@ -9,8 +9,8 @@ PyMOL scripts for visualizing ligand-binding pockets across the **LolA superfami
   <!-- 💡 After running: replace with actual screenshots
        e.g. lprg_tag, vioe_peg, epd_axt side by side -->
   <img src="figures/LprG_PIM2_3MHA_pocket.png" width="280" alt="LprG-TAG pocket"/>
-  <img src="figures/vioe_peg_example.png" width="280" alt="VioE-PEG pocket"/>
-  <img src="figures/EPD_BCP1_8I34_pocket.png.png" width="280" alt="EPD-BCP1 pocket"/>
+  <img src="figures/VioE_3BMZ_contacts.png" width="280" alt="VioE-PEG pocket"/>
+  <img src="figures/EPD_BCP1_8I34_pocket.png" width="280" alt="EPD-BCP1 pocket"/>
 </p>
 <p align="center"><sub>LprG·TAG (4ZRA) · VioE·PEG (3BMZ) · EPD-BCP1·AXT (8I34)</sub></p>
 
